@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSI0N 3.28)
+cmake_minimum_required(VERSION 3.28)
 project(nexte_hw02 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 SET(CMAKE_CXX_STANDSRD_REQUIRED ON)
